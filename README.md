@@ -1,4 +1,4 @@
-# globo_gym
+# Globo Gym App
 
 A new Flutter project.
 For testing 
